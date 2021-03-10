@@ -12,3 +12,7 @@ h1{
     color: aqua;
     background-color: grey;
 }
+img {
+    width: 100%;
+    height: auto;
+}
