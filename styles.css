@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Lucida Grande', Tahoma, Verdana, Arial, sans-serif;
+}
+h1{
+    color: darkblue;
+}
+#para1{
+    color: darkcyan;
+}
+#para2 {
+    color: aqua;
+    background-color: grey;
+}
